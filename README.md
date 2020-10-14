@@ -1,4 +1,4 @@
-# -CodeRepo-HW12-Employee-Tracker
+# CodeRepo-HW12-Employee-Tracker
 
 ## Description
 
@@ -35,7 +35,7 @@
 
 ## Test
 
-    Run node test and added employees, departmen and role then checked it in MYSQL and saw all the updates added to the tables. 
+Run node test and added employees, departmen and role then checked it in MYSQL and saw all the updates added to the tables. 
 
 ## Questions
 In case of any additional questions please visit my GitHub link: [Feda2020](https://github.com/Feda2020) 
